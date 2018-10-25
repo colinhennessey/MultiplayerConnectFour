@@ -1,7 +1,7 @@
 # Multiplayer Connect Four
 ## Description
 ### What?
->Multiplayer Connect Four> is our attempt at making an online multiplayer Connect Four game.
+Multiplayer Connect Four is our attempt at making an online multiplayer Connect Four game.
 ### Why?
 We are making Connect Four a multiplayer game so that the two players don't have to play on the same computer.
 ### How?
