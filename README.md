@@ -35,3 +35,10 @@ The first computer (the server) will be running the Connect Four game. The secon
 ## Team Members
 - Colin Hennessey: Networking
 - Jonathon Macone: Design & Backend
+
+# Comments
+1. Provide more info about the Connect Four game. At least a brief description of what it is and how the game is played. Also a link to the wiki page if exists.
+2. It is a bit confusing how you design the game. Is it client-server or client-client? Looks like it is better to have a server handle the game management: create a game, let user join the game, etc. From what you described, it is more like 2 clients connect to each other and exchange messages rather than client-server model
+3. Need to be more specific about the deliverables. What are the features of the client? What scenarios do the game support?
+4. Adjust the plan to fit in 5 weeks schedule
+5. ProgressUpdates.md is missing!
