@@ -1,44 +1,34 @@
 # Multiplayer Connect Four
 ## Description
 ### What?
-Multiplayer Connect Four is our attempt at making an online multiplayer Connect Four game.
+Multiplayer Connect Four is our attempt at making an online multiplayer Connect Four game. Connect Four is a game that involves a 6x7 board and pieces of two different colors (traditionally, red and yellow). The first player to connect four of the same color piece either vertically, horizontally, or diagonally, wins the game.
 ### Why?
 We are making Connect Four a multiplayer game so that the two players don't have to play on the same computer.
 ### How?
-The first computer (the server) will be running the Connect Four game. The second computer (the client) will be able to connect to the server and the two can interact.
+Two clients will be able to connect directly to each other to play a game of Connect Four.
 
 ## Deliverables
-1. The server's version of Connect Four.
-2. The client's version of Connect Four.
+1. Connect Four game (GUI) - allows clients to connect directly to each other to play, detects when a player wins, and allows the players to either play again or quit the game after the game ends.
 3. Documentation
 
 ## Plan
 - Week 1:
 1. Prepare the Connect Four code we already have to add sockets
-2. Find ways to optimize code and fix any remaining bugs
+2. Find ways to optimize code and fix any remaining bugs (in particular - need to add solution for when no player wins)
 - Week 2:
-1. Begin working on the server
+1. Begin working on the networking component of the game
+2. Research as needed
 - Week 3:
-1. Finish working on the server
-2. Begin working on the client
+1. Continue working on the networking component (if needed)
 - Week 4:
-1. Finish the client version
-2. Make sure the server & client can communicate
+1. Complete the networking component of the game
+2. Begin documentation
+3. Start testing
 - Week 5:
-1. Optimize code
-2. Begin working on documentation
-- Week 6:
-1. Play test
-2. Complete documentation
-3. Fix any remaining bugs
+1. Debug and optimize code
+2. Finish documentation if needed
+3. Test more & ensure that every possible scenario is covered
 
 ## Team Members
 - Colin Hennessey: Networking
 - Jonathon Macone: Design & Backend
-
-# Comments
-1. Provide more info about the Connect Four game. At least a brief description of what it is and how the game is played. Also a link to the wiki page if exists.
-2. It is a bit confusing how you design the game. Is it client-server or client-client? Looks like it is better to have a server handle the game management: create a game, let user join the game, etc. From what you described, it is more like 2 clients connect to each other and exchange messages rather than client-server model
-3. Need to be more specific about the deliverables. What are the features of the client? What scenarios do the game support?
-4. Adjust the plan to fit in 5 weeks schedule
-5. ProgressUpdates.md is missing!
