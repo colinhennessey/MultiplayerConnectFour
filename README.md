@@ -1,7 +1,7 @@
 # Multiplayer Connect Four
 ## Description
 ### What?
-Multiplayer Connect Four is our attempt at making an online multiplayer Connect Four game. Connect Four is a game that involves a 6x7 board and pieces of two different colors (traditionally, red and yellow). The first player to connect four of the same color piece either vertically, horizontally, or diagonally, wins the game.
+Multiplayer Connect Four is our attempt at making an online multiplayer Connect Four game. Connect Four is a game that involves a 6x7 board and pieces of two different colors (traditionally, red and yellow). The first player to connect four of the same color piece either vertically, horizontally, or diagonally, wins the game. https://en.wikipedia.org/wiki/Connect_Four
 ### Why?
 We are making Connect Four a multiplayer game so that the two players don't have to play on the same computer.
 ### How?
