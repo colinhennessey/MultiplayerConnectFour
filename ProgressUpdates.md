@@ -37,3 +37,14 @@
 
 ### Any blocking issues/challenges need to be addressed?
 * Since we are only on campus for 3 days this week, we need to get as much done as we can by Wednesday
+
+## Week 4 (Nov 19 - Nov 26)
+
+### What did your team do last week?
+* Continued working on the networking side of the project and implementing it into the game
+
+### What will you do this week?
+* Have the game fully ready to be played
+
+### Any blocking issues/challenges need to be addressed?
+* We're having some issues with the networking side of the project that were unexpected, so we have to clear those up.
