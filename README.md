@@ -32,3 +32,13 @@ Two clients will be able to connect directly to each other to play a game of Con
 ## Team Members
 - Colin Hennessey: Networking
 - Jonathon Macone: Design & Backend
+
+## Getting Started
+- Install Server & Client Executables
+
+## Features
+- In-terminal Multiplayer Connect Four game
+- Detects wins and draws
+
+## Demo
+https://www.youtube.com/watch?v=9qBN3D5AMa4
